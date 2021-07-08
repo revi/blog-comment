@@ -1,0 +1,1 @@
+This repository follows the [Revi's Community Code of Conduct](https://bugs.revi.xyz/L4).
